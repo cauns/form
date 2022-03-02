@@ -3,7 +3,9 @@
     "description": "Effortlessly build TALL-powered forms.",
     "license": "MIT",
     "require": {
-        "php": "^8.0"
+        "php": "^8.0",
+        "spatie/laravel-package-tools": "^1.11.2",
+         "livewire/livewire": "^2.10",
     },
     "autoload": {
         "files": [
